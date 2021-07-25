@@ -1,0 +1,31 @@
+.background-images{
+    background-image: url(images/photo-151ssssssss3530534585-c7b1394c6d51.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.fonts{
+   
+    font-family: 'Poppins', sans-serif;
+}
+.btn-buy{
+    background-color: black;
+    border-radius: 50%;
+    transition: .5s ease;
+}
+.btn-buy:hover{
+    background-color: #ff4891;
+    color: black;
+    transform: scale(1.1);
+}
+.card-img img{
+    transition: .5s ease-in;
+}
+.card-img img:hover{
+    transform: scale(1.1);
+}
+.card{
+    transition: .5s ease-in;
+}
+.card:hover{
+    transform: scale(.9);
+}
